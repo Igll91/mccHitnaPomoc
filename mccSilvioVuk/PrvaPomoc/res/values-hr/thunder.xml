@@ -1,0 +1,12 @@
+<resources>
+    <string name="about1Thunder">Strujni udar nastaje kad se cijelo tijelo ili dio tijela uključi u strujni krug.</string>
+    <string name="about2Thunder">Posljedice mogu biti bezazlene ili kobne, što ovisi o brojnim čimbenicima kao što su: tehničke osobine struje, otpor tkiva, duljina izloženosti i put prolaska struje kroz tijelo. Mokra ili vlažna koža ima manji električni otpor pa pogoršava posljedice strujnog udara.</string>
+    <string name="about3Thunder">Električna struja može uzrokovati duboke i oštro ograničene opekline. Prolasci struje kroz srce i kroz mozak mogu izazvati trenutnu smrt zbog zastoja srčanog rada i oštećenja centra za disanje u mozgu. Snažni mišićni grčevi prouzrokovani strujom mogu dovesti do pucanja mišića i koštanih prijeloma. Ukrućenost mišića može potrajati i nekoliko minuta nakon prestanka dodira sa strujom, što u slučaju zahvaćenosti mišića za disanje dovodi do prestanka disanja. Osoba koja je rukama primila žicu pod naponom neće je moći ispustiti zbog grča mišića ruku.</string>
+    <string name="headingThunder">Postupak</string>
+    
+    <string-array name="arrayThunderHelpAdvices">
+        <item >Ako je unesrećeni još uvijek u strujnom krugu, treba ga što prije osloboditi. Spasilac mora paziti i na vlastitu sigurnost. Ovisno o situaciji strujni krug se prekida izvlačenjem utikača iz utičnice, vađenjem osigurača ili odvajanjem električnog vodiča od tijela pomoću predmeta od izolirajućeg materijala (plastika, guma, suho drvo, debeli sloj suhe tkanine ili papira). Dobro je koristiti gumene rukavice i čizme. Eventualni požar na mjestu nezgode ne smije se gasiti vodom.</item>
+    	<item >Ako je unesrećeni bez svijesti, provjerite disanje i krvotok i po potrebi započnite mjere oživljavanja. Onesviještenog koji diše okrenite u bočni položaj.</item>
+    	<item >S opeklinama i prijelomima postupite kao što je opisano u odgovarajućim poglavljima.</item>
+    </string-array>
+</resources>

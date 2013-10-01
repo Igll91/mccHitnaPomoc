@@ -1,0 +1,81 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".OtherMethodsActivity" >
+
+    <!-- ignore warning -->
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:id="@+id/linearLayout_other_methods_innerLayoutSnake"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView_other_methods_snake_about"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginLeft="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginRight="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginTop="@dimen/marginSize_otherMethods_textBlock"
+                android:background="@color/verylightGrey"
+                android:paddingBottom="2dp"
+                android:paddingLeft="5dp"
+                android:paddingTop="2dp"
+                android:text="@string/aboutSnake" />
+
+            <TextView
+                android:id="@+id/textView_other_methods_snake_singsHeading"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/maginSize_otherMethods_heading"
+                android:layout_marginTop="@dimen/maginSize_otherMethods_heading"
+                android:paddingLeft="2dp"
+                android:text="@string/headingSnakeBiteSigns"
+                android:textColor="@color/redC80000"
+                android:textSize="@dimen/headingSize_otherMethods" />
+
+            <TextView
+                android:id="@+id/textView_other_methods_snake_signsText"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginLeft="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginRight="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginTop="@dimen/marginSize_otherMethods_textBlock"
+                android:background="@color/verylightGrey"
+                android:paddingBottom="2dp"
+                android:paddingLeft="5dp"
+                android:paddingTop="2dp"
+                android:text="@string/textSnakeBiteSigns" />
+
+            <TextView
+                android:id="@+id/textView_other_methods_snake_headingEffects"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/maginSize_otherMethods_heading"
+                android:layout_marginTop="@dimen/maginSize_otherMethods_heading"
+                android:paddingLeft="2dp"
+                android:text="@string/headingSnakeBiteEffects"
+                android:textColor="@color/redC80000"
+                android:textSize="@dimen/headingSize_otherMethods" />
+
+            <TextView
+                android:id="@+id/textView_other_methods_snake_headingTreatment"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/maginSize_otherMethods_heading"
+                android:layout_marginTop="@dimen/maginSize_otherMethods_heading"
+                android:paddingLeft="2dp"
+                android:text="@string/headingSnakeBiteTreatment"
+                android:textColor="@color/redC80000"
+                android:textSize="@dimen/headingSize_otherMethods" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

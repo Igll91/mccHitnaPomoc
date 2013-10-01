@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="title">Sigurni znakovi smrti</string>
+    
+    <string name="headingSignsOfDeath">Kod onesviještene osobe, pogotovo ako je u stanju pothlađenosti, disanje i puls mogu biti toliko 
+        oslabljeni da ih ne možemo utvrditi. Zato provjerom disanja i pulsa ne možemo sa sigurnošću utvrditi smrt. Najraniji sigurni znakovi 
+        smrti su: mačje oko, mrtvačke pjege i mrtvačka ukočenost.</string>
+          
+   	<string name="h1SignsOfDeath">Mačje oko</string>
+   	
+   	<string name="h1SignsOfDeathText">Ako se očna jabučica mrtvaca postranično pritisne, 
+   	    zjenica se izdužuje i postaje ovalna.</string>
+   	    
+   	<string name="h2SignsOfDeath">Mrtvačke pjege</string>
+   	
+   	<string name="h2SignsOfDeathText">Modroljubičaste su boje. Nastaju zbog slijevanja krvi 
+   	    u najniže djelove tijela. Vide se na koži one strane tijela na kojoj mrtvac leži.
+   	     U početku su pomične, tj. ako mrtvaca okrenemo i pjege će se preseliti opet u najniže 
+   	     djelove tijela. Mrtvačke pjege počinju se javljati 30 - 60 minuta nakon smrti.</string>
+   	     
+   	<string name="h3SignsOfDeath">Mrtvačka ukočenost</string>
+   	
+   	<string name="h3SignsOfDeathText">Mrtvo tijelo u početku je mlohavo. 
+   	    Dva do četiri sata nakon smrti započinje kočenje pojedinih zglobova, a 6 - 8 
+   	    sati nakon smrti cijelo je tijelo ukočeno. Ukočenost traje 2 - 3 dana.</string>
+   	    
+   	<string-array name="hReferenceSignsOfDeath">
+   	    <item >@string/h1SignsOfDeath</item>
+   	    <item >@string/h2SignsOfDeath</item>
+   	    <item >@string/h3SignsOfDeath</item>
+   	</string-array>
+   	
+   	<string-array name="hTextReferenceSignsOfDeath">
+   	    <item >@string/h1SignsOfDeathText</item>
+   	    <item >@string/h2SignsOfDeathText</item>
+   	    <item >@string/h3SignsOfDeathText</item>
+   	</string-array>
+   	    
+   	     
+</resources>

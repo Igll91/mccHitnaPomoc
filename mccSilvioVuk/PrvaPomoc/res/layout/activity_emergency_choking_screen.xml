@@ -1,0 +1,183 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <!-- ignore warning -->
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:id="@+id/linearLayout_emergency_choking_innerLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView_emergency_aboutChoking1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginLeft="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginRight="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginTop="@dimen/marginSize_otherMethods_textBlock"
+                android:background="@color/verylightGrey"
+                android:paddingBottom="2dp"
+                android:paddingLeft="5dp"
+                android:paddingTop="2dp"
+                android:text="@string/aboutChoking1" />
+
+            <TextView
+                android:id="@+id/textView_emergency_stepChoking1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/maginSize_otherMethods_heading"
+                android:layout_marginTop="@dimen/maginSize_otherMethods_heading"
+                android:paddingLeft="2dp"
+                android:text="@string/stepChoking1"
+                android:textColor="@color/redC80000"
+                android:textSize="@dimen/headingSize_otherMethods" />
+
+            <TextView
+                android:id="@+id/textView_emergency_stepChoking1txt"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginLeft="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginRight="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginTop="@dimen/marginSize_otherMethods_textBlock"
+                android:background="@color/verylightGrey"
+                android:paddingBottom="2dp"
+                android:paddingLeft="5dp"
+                android:paddingTop="2dp"
+                android:text="@string/stepChoking1txt" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/bok1" />
+
+            <TextView
+                android:id="@+id/textView_emergency_stepChoking2"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/maginSize_otherMethods_heading"
+                android:layout_marginTop="@dimen/maginSize_otherMethods_heading"
+                android:paddingLeft="2dp"
+                android:text="@string/stepChoking2"
+                android:textColor="@color/redC80000"
+                android:textSize="@dimen/headingSize_otherMethods" />
+
+            <TextView
+                android:id="@+id/textView_emergency_stepChoking2txt"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginLeft="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginRight="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginTop="@dimen/marginSize_otherMethods_textBlock"
+                android:background="@color/verylightGrey"
+                android:paddingBottom="2dp"
+                android:paddingLeft="5dp"
+                android:paddingTop="2dp"
+                android:text="@string/stepChoking2txt" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/bok2" />
+
+            <TextView
+                android:id="@+id/textView_emergency_stepChoking3"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/maginSize_otherMethods_heading"
+                android:layout_marginTop="@dimen/maginSize_otherMethods_heading"
+                android:paddingLeft="2dp"
+                android:text="@string/stepChoking3"
+                android:textColor="@color/redC80000"
+                android:textSize="@dimen/headingSize_otherMethods" />
+
+            <TextView
+                android:id="@+id/textView_emergency_stepChoking3txt"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginLeft="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginRight="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginTop="@dimen/marginSize_otherMethods_textBlock"
+                android:background="@color/verylightGrey"
+                android:paddingBottom="2dp"
+                android:paddingLeft="5dp"
+                android:paddingTop="2dp"
+                android:text="@string/stepChoking3txt" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/bok3" />
+
+            <TextView
+                android:id="@+id/textView_emergency_stepChoking4"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/maginSize_otherMethods_heading"
+                android:layout_marginTop="@dimen/maginSize_otherMethods_heading"
+                android:paddingLeft="2dp"
+                android:text="@string/stepChoking4"
+                android:textColor="@color/redC80000"
+                android:textSize="@dimen/headingSize_otherMethods" />
+
+            <TextView
+                android:id="@+id/textView_emergency_stepChoking4txt"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginLeft="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginRight="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginTop="@dimen/marginSize_otherMethods_textBlock"
+                android:background="@color/verylightGrey"
+                android:paddingBottom="2dp"
+                android:paddingLeft="5dp"
+                android:paddingTop="2dp"
+                android:text="@string/stepChoking4txt" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/bok4" />
+
+            <TextView
+                android:id="@+id/textView_emergency_chokingBigHeading1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/maginSize_otherMethods_heading"
+                android:layout_marginTop="@dimen/maginSize_otherMethods_heading"
+                android:paddingLeft="2dp"
+                android:text="@string/headingChoking"
+                android:textColor="@color/redC80000"
+                android:textSize="17sp" />
+
+            <TextView
+                android:id="@+id/textView_emergency_aboutChoking2"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginLeft="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginRight="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginTop="@dimen/marginSize_otherMethods_textBlock"
+                android:background="@color/verylightGrey"
+                android:paddingBottom="2dp"
+                android:paddingLeft="5dp"
+                android:paddingTop="2dp"
+                android:text="@string/aboutChoking2" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

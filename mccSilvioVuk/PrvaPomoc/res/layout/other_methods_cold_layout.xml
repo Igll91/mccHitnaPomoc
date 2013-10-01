@@ -1,0 +1,82 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".OtherMethodsActivity" >
+
+    <!-- ignore warning -->
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:id="@+id/linearLayout_other_methods_innerLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView_other_methods_cold_about"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginLeft="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginRight="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginTop="@dimen/marginSize_otherMethods_textBlock"
+                android:background="@color/verylightGrey"
+                android:paddingBottom="2dp"
+                android:paddingLeft="5dp"
+                android:paddingTop="2dp"
+                android:text="@string/hypothermia_about" />
+
+            <TextView
+                android:id="@+id/textView_other_methods_cold_singsHeading"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/maginSize_otherMethods_heading"
+                android:layout_marginTop="@dimen/maginSize_otherMethods_heading"
+                android:paddingLeft="2dp"
+                android:text="@string/hypothermia_singsHeading"
+                android:textColor="@color/redC80000"
+                android:textSize="@dimen/headingSize_otherMethods" />
+
+            <TextView
+                android:id="@+id/textView_other_methods_cold_singsText"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginLeft="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginRight="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginTop="@dimen/marginSize_otherMethods_textBlock"
+                android:background="@color/verylightGrey"
+                android:paddingBottom="2dp"
+                android:paddingLeft="5dp"
+                android:paddingTop="2dp"
+                android:text="@string/hypothermia_singsText" />
+
+            <TextView
+                android:id="@+id/textView_other_methods_cold_conciousHeading"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/maginSize_otherMethods_heading"
+                android:layout_marginTop="@dimen/maginSize_otherMethods_heading"
+                android:paddingLeft="2dp"
+                android:text="@string/hypothermia_consciousHeading"
+                android:textColor="@color/redC80000"
+                android:textSize="@dimen/headingSize_otherMethods" />
+
+            <TextView
+                android:id="@+id/textView_other_methods_cold_unconsciousHeading"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/maginSize_otherMethods_heading"
+                android:layout_marginTop="@dimen/maginSize_otherMethods_heading"
+                android:paddingLeft="2dp"
+                android:text="@string/hypothermia_unconsciousHeading"
+                android:textColor="@color/redC80000"
+                android:textSize="@dimen/headingSize_otherMethods" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

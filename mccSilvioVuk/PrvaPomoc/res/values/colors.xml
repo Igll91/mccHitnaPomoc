@@ -1,0 +1,9 @@
+<resources>
+    
+ 	<color name="silverBackground">#C0C0C0</color>
+ 	<color name="pastelBlue">#C1F0F6</color>
+ 	<color name="verylightGrey">#CDCDCD</color>
+ 	<color name="lightBlue">#8FD8D8</color>
+	<color name="redC80000">#C80000 </color>
+	<color name="black_overlay">#66000000</color>
+</resources>

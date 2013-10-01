@@ -1,0 +1,120 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <!-- ignore warning -->
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:id="@+id/linearLayout_emergency_bleeding_outerLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView_emergency_aboutBleeding"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginLeft="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginRight="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginTop="@dimen/marginSize_otherMethods_textBlock"
+                android:background="@color/verylightGrey"
+                android:paddingBottom="2dp"
+                android:paddingLeft="5dp"
+                android:paddingTop="2dp"
+                android:text="@string/aboutBleeding1" />
+
+            <TextView
+                android:id="@+id/textView_emergency_outerBleedingHeading"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/maginSize_otherMethods_heading"
+                android:layout_marginTop="@dimen/maginSize_otherMethods_heading"
+                android:paddingLeft="2dp"
+                android:text="@string/headingBleeding1"
+                android:textColor="@color/redC80000"
+                android:textSize="@dimen/headingSize_otherMethods" />
+
+            <TextView
+                android:id="@+id/textView_emergency_woundPressure"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/maginSize_otherMethods_heading"
+                android:layout_marginTop="@dimen/maginSize_otherMethods_heading"
+                android:paddingLeft="2dp"
+                android:text="@string/headingBleeding2"
+                android:textColor="@color/redC80000"
+                android:textSize="@dimen/headingSize_otherMethods" />
+
+            <TextView
+                android:id="@+id/textView_emergency_aboutBleedingText"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginLeft="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginRight="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginTop="@dimen/marginSize_otherMethods_textBlock"
+                android:background="@color/verylightGrey"
+                android:paddingBottom="2dp"
+                android:paddingLeft="5dp"
+                android:paddingTop="2dp"
+                android:text="@string/aboutBleeding2" />
+
+            <TextView
+                android:id="@+id/textView_emergency_woundCompressionBandage"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/maginSize_otherMethods_heading"
+                android:layout_marginTop="@dimen/maginSize_otherMethods_heading"
+                android:paddingLeft="2dp"
+                android:text="@string/headingBleeding3"
+                android:textColor="@color/redC80000"
+                android:textSize="@dimen/headingSize_otherMethods" />
+
+            <TextView
+                android:id="@+id/textView_emergency_woundCompressionBandageText"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginLeft="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginRight="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginTop="@dimen/marginSize_otherMethods_textBlock"
+                android:background="@color/verylightGrey"
+                android:paddingBottom="2dp"
+                android:paddingLeft="5dp"
+                android:paddingTop="2dp"
+                android:text="@string/aboutBleeding3" />
+
+            <TextView
+                android:id="@+id/textView_emergency_woundligation"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/maginSize_otherMethods_heading"
+                android:layout_marginTop="@dimen/maginSize_otherMethods_heading"
+                android:paddingLeft="2dp"
+                android:text="@string/headingBleeding4"
+                android:textColor="@color/redC80000"
+                android:textSize="@dimen/headingSize_otherMethods" />
+
+            <TextView
+                android:id="@+id/textView_emergency_woundligationText"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginLeft="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginRight="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginTop="@dimen/marginSize_otherMethods_textBlock"
+                android:background="@color/verylightGrey"
+                android:paddingBottom="2dp"
+                android:paddingLeft="5dp"
+                android:paddingTop="2dp"
+                android:text="@string/aboutBleeding4" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

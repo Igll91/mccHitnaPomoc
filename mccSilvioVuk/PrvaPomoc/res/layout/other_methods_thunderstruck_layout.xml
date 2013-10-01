@@ -1,0 +1,74 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".OtherMethodsActivity" >
+
+    <!-- ignore warning -->
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:id="@+id/linearLayout_other_methods_innerLayoutThunder"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView_other_methods_thunder_about1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginLeft="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginRight="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginTop="@dimen/marginSize_otherMethods_textBlock"
+                android:background="@color/verylightGrey"
+                android:paddingBottom="2dp"
+                android:paddingLeft="5dp"
+                android:paddingTop="2dp"
+                android:text="@string/about1Thunder" />
+
+            <TextView
+                android:id="@+id/textView_other_methods_thunder_about2"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginLeft="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginRight="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginTop="@dimen/marginSize_otherMethods_textBlock"
+                android:background="@color/verylightGrey"
+                android:paddingBottom="2dp"
+                android:paddingLeft="5dp"
+                android:paddingTop="2dp"
+                android:text="@string/about2Thunder" />
+
+            <TextView
+                android:id="@+id/textView_other_methods_thunder_about3"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginLeft="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginRight="@dimen/marginSize_otherMethods_textBlock"
+                android:layout_marginTop="@dimen/marginSize_otherMethods_textBlock"
+                android:background="@color/verylightGrey"
+                android:paddingBottom="2dp"
+                android:paddingLeft="5dp"
+                android:paddingTop="2dp"
+                android:text="@string/about3Thunder" />
+
+            <TextView
+                android:id="@+id/textView_other_methods_thunder_heading"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/maginSize_otherMethods_heading"
+                android:layout_marginTop="@dimen/maginSize_otherMethods_heading"
+                android:paddingLeft="2dp"
+                android:text="@string/headingThunder"
+                android:textColor="@color/redC80000"
+                android:textSize="@dimen/headingSize_otherMethods" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

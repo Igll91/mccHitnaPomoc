@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- savjeti koji se pojavljivaju na prvome screenu -->
+	<array name="hints">
+        <item>Prestanak rada srca NE ZNAČI da je osoba mrtva !</item>
+        <item>Prestanak disanja NE ZNAČI da je osoba mrtva !</item>
+        <item>Onesviještene osobe treba uvijek OKRENUTI na bočni položaj, da se ne uguše !</item>
+        <item>Ni u kojem slučaju NE VADITE predmete koji su ušli duboko u tijelo !</item>
+        <item>Ozljeda kralježnice može dovesti do trajnog invaliditeta, pravilnim pružanjem prve pomoći 
+            to se možda izbjegne</item>
+        <item>Uvijek prvo pomozi, a zatim izvlači iz vozila, osim ako JE vozilo ZAPALJENO !</item>
+        
+    </array>
+    
+	<array name="homeScreenMenuArray">
+	    <item>@array/homeScreenMenuItem1</item>
+	    <item>@array/homeScreenMenuItem2</item>
+	    <item>@array/homeScreenMenuItem3</item>
+	    <item>@array/homeScreenMenuItem4</item>
+	</array>
+	
+	<array name="homeScreenMenuItem1">
+	    <item name="text">Neodgodiva prva pomoć</item>
+	    <item name="pictureReference">cross</item>
+	</array>
+	
+	<array name="homeScreenMenuItem2">
+	    <item name="text">Ostalo</item>
+	    <item name="pictureReference">moreinfo</item>
+	</array>
+	
+	<array name="homeScreenMenuItem3">
+	    <item name="text">Sadržaj kutije prve pomoći</item>
+	    <item name="pictureReference">medicbag</item>
+	</array>
+	
+	<array name="homeScreenMenuItem4">
+	    <item name="text">Svi savjeti</item>
+	    <item name="pictureReference">attention</item>
+	</array>
+	
+	<!-- DIVIDER DIVIDER DIVIDER DIVIDER DIVIDER DIVIDER DIVIDER DIVIDER DIVIDER DIVIDER DIVIDER DIVIDER  -->
+	
+	<array name="emergencyScreenMenuArray">
+	    <item>@array/emergencyScreenMenuItem1</item>
+	    <item>@array/emergencyScreenMenuItem2</item>
+	    <item>@array/emergencyScreenMenuItem3</item>
+	</array>
+	
+	<array name="emergencyScreenMenuItem1">
+	    <item name="text">Gušenje</item>
+	    <item name="pictureReference">choking2</item>
+	</array>
+	
+	<array name="emergencyScreenMenuItem2">
+	    <item name="text">Krvarenje</item>
+	    <item name="pictureReference">blood</item>
+	</array>
+	
+	<array name="emergencyScreenMenuItem3">
+	    <item name="text">Reanimacija</item>
+	    <item name="pictureReference">heart</item>
+	</array>
+	
+</resources>

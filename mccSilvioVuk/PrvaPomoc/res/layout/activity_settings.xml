@@ -1,0 +1,107 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    tools:context=".SettingsActivity" >
+	
+      <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/settings_splash_title" 
+            android:background="@android:color/black"
+            android:textColor="@android:color/white"/>
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" 
+        android:background="@android:color/darker_gray">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/settings_splash_screen_textview"
+            android:text="@string/settings_splash_details_on" 
+            android:layout_weight="1"/>
+
+        <CheckBox
+            android:id="@+id/settings_splash_screen_checkbox"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="4" />
+
+    </LinearLayout>
+	
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/settings_telNum_text"
+            android:layout_weight="2" />
+
+        <ToggleButton
+            android:id="@+id/toggleButton_settings"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:text="" />
+
+    </LinearLayout>
+    
+      <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:id="@+id/linearLayout_settings_telNumChanger" 
+        android:visibility="gone">
+
+          <EditText
+              android:id="@+id/editText_settings_number"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:layout_weight="2"
+              android:ems="10"
+              android:inputType="phone" >
+
+              <requestFocus />
+          </EditText>
+
+        <Button 
+            android:id="@+id/button_settings_telNum"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/settings_telNum_buttonText"
+            android:layout_weight="4"
+            />
+
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@android:color/darker_gray">
+
+         <TextView 
+             android:layout_width="fill_parent"
+             android:layout_height="wrap_content"
+             android:layout_weight="2"
+             android:text="@string/settings_telNum_reset"
+             />
+
+        <Button 
+            android:id="@+id/button_settings_telNum_reset"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/settings_telNum_reset_text"
+            android:layout_weight="4"
+            />
+
+    </LinearLayout>
+</LinearLayout>

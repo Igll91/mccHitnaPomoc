@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="purpose">Svrha ove aplikacije je da pomogne spasiti ozlijeđene ljude.
+            Također može poslužiti u edukacijske svrhe.</string>
+    <string name="tnxTo:">Zahvalio bih Matiji na urađenim slikama za aplikaciju te 
+            http://www.hitna-pomoc-zg.hr web stranici na textu koji je ubačen u aplikaciju.</string>
+    <string name="bugReport">Zamolio bih da sve greške prijavite na gore navedeni mail !</string>
+    <string name="about">O aplikaciji</string>
+    <string name="back">natrag</string>
+
+</resources>

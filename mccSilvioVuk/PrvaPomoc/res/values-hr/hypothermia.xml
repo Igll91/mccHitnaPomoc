@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hypothermia_about">
+        Pothlađenost je stanje snižene opće tjelesne temperature. Nastaje kada organizam gubi
+		više topline nego što je može proizvesti. Stanje alkoholiziranosti, iscrpljenosti i niska
+		temperatura okoline pospješuju nastanak pothlađivanja. Česte žrtve smrzavanja su pijane osobe 
+		koje zaspu izvan kuće. Novorođenčad i mala djeca su vrlo sklona pothlađivanju zbog male tjelesne mase.
+    </string>
+    
+    <string name="hypothermia_singsHeading">
+        Znakovi pothlađivanja
+    </string>
+    <string name="hypothermia_singsText">
+        U početku osoba ima osjećaj hladnoće i drhti (ovaj stadij može i izostati). Kasnije osjećaj 
+        hladnoće prestaje, javljaju se umor, tromost i velika želja za snom. Sve tjelesne i psihičke 
+        funkcije se usporavaju. Ponekad se javljaju priviđenja. S daljnjim snižavanjem tjelesne temperature
+         osoba gubi svijest. Disanje i rad srca se jako usporavaju. Ako se ne pruži pomoć, smrt nastupa zbog 
+         prestanka disanja i srčanog rada.       
+    </string>
+    
+    <string name="hypothermia_consciousHeading">
+        Ako je pothlađeni bolesnik pri svijesti
+    </string>
+    
+    <string-array name="hypothermia_conciousArray">
+        <item >Unesite ga u toplu prostoriju. Vlažnu i mokru odjeću zamijenite suhom.</item>
+        <item >Dajte mu topla, zaslađena, bezalkoholna pića.</item>
+        <item >Možete upotrijebiti termofor i slične izvore topline za zagrijavanje bolesnika, ali ne prislanjajte ih direktno na tijelo, nego preko slojeva deke.</item>
+        <item >Ako nemate na raspolaganju toplu prostoriju, pokušajte bolesnika izolirati sa svih strana dekom, odjećom, novinskim papirom ili drugim materijalom. Pozovite pomoć.</item>
+    </string-array>
+  
+    <string name="hypothermia_unconsciousHeading">
+        Ako pothlađeni bolesnik nije pri svijesti
+    </string>
+    
+    <string-array name="hypothermia_unconciousArray">
+        <item >Provjerite disanje i krvotok i po potrebi započnite mjere oživljavanja. U stanju pothlađenosti disanje i srčani rad mogu biti toliko oslabljeni i usporeni da ih je moguće previdjeti. No, postojanje i minimalnog disanja od samo 2&#8211;3 udisaja u minuti isključuje potrebu oživljavanja. Pri oživljavanju pothlađene osobe treba biti uporniji nego inače jer vrijedi pravilo da "pothlađeni bolesnik nije mrtav dok nije topao i mrtav".</item>
+        <item >Zagrijavanje pothlađenog bolesnika bez svijesti treba provoditi postupno i to tako da se najprije grije trup bolesnika, tj. predio srca.</item>
+        <item >Ravnomjerno zagrijavanje čitavog tijela moglo bi biti kobno jer širenje krvnih žila pri zagrijavanju dovodi do pada krvnog tlaka i istovremenog priljeva hladne krvi s periferije organizma u srce što može izazvati srčani zastoj.</item>
+        <item >Dobra metoda postupnog zagrijavanja bolesnika u okolnostima kada medicinska pomoć nije dostupna je Hiblerov toplinski omotač:</item>
+        <item >Bolesnika položite na raširene deke. Ispod trupa treba biti postavljena aluminijska ili plastična folija.složeni ručnik ili plahtu namočite u vruću vodu (60° - 70°C), položite na prsni koš i trbuh bolesnika i zamotajte spomenutom folijom. Ruke moraju ostati izvan folije.</item>
+ 		<item >Čitavo tijelo zamotajte dekama tako da samo lice ostane otkriveno. Namočeni ručnik ili plahtu mjenjajte svakih sat vremena.</item>   
+    </string-array>
+    
+</resources>

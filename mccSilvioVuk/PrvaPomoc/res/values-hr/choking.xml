@@ -1,0 +1,14 @@
+<resources>
+    <string name="aboutChoking1">U stanju duboke nesvijesti, za razliku od sna, svi tjelesni mišići omlohave. Ako onesviješteni leži na leđima, dolazi do spuštanja donje čeljusti i jezika koji može zatvoriti dišni put. Moguće je i gušenje vlastitim povraćenim sadržajem. Stoga onesviješteni mora ležati na boku, poduprt jednom rukom i nogom, s glavom zabačenom prema natrag. Time se osigurava prohodnost dišnog puta jer se jezik odmiče od stražnje stijenke ždrijela i omogućava se istjecanje sline, krvi i povraćenog sadržaja iz usta.</string>
+	<string name="stepChoking1">Korak 1.</string>
+	<string name="stepChoking2">Korak 2.</string>
+	<string name="stepChoking3">Korak 3.</string>
+	<string name="stepChoking4">Korak 4.</string>
+	<string name="stepChoking1txt">Ruke onesviještenog stavite u položaj kao na slici.</string>
+	<string name="stepChoking2txt">Koljeno na suprotnoj strani podignite tako da stopalo bude ispruženo na podlozi.</string>
+	<string name="stepChoking3txt">Okrenite onesviještenog povlačeći ga za rame i za bok ili natkoljenicu.</string>
+	<string name="stepChoking4txt">Gornju nogu povucite prema naprijed i gornju ruku stavite ispod obraza da podržava glavu u zabačenom položaju.</string>
+	<string name="headingChoking">OKRETANJE NA BOK PRI OZLJEDI KRALJEŽNICE</string>
+	<string name="aboutChoking2">Ako je gubitak svijesti prouzrokovan ozljedom (npr. prometnom nezgodom ili padom s visine), moramo posumnjati i na mogućnost ozljede kralježnice. Za okretanje su tada potrebne dvije osobe. Dok jedna polagano okreće trup bolesnika, druga za to vrijeme pridržava glavu u neutralnom položaju, tj. u istoj osovini s trupom, izbjegavajući savijanje i rotaciju vrata. Ukoliko ste sami na mjestu nezgode, ozlijeđenog morate okrenuti sami, jer je opasnost od gušenja veća od rizika ozljede kralježnične moždine.</string>
+
+</resources>

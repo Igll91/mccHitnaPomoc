@@ -1,0 +1,41 @@
+<resources>
+
+    <string name="aboutReanimation1">Prestanak disanja i srčanog rada ne mora značiti definitivnu smrt.
+Takve osobe možemo u nekim slučajevima povratiti u život postupkom oživljavanja.
+Oživljavanje ili reanimacija podrazumjeva masažu srca i umjetno disanje, a za opremljene medicinske ekipe još i primjenu lijekova i električne struje.
+Prestankom disanja i/ili srčanog rada organizam ostaje bez kisika, što dovodi do odumiranja stanica. Moždane stanice odumiru prve, već za nekoliko minuta. Samo unutar tog kratkog vremena ima smisla pokušati oživljavanje.</string>
+  
+    <string name="headingReanimation1">Klinička smrt</string>
+    <string name="headingReanimation2">Cerebralna (moždana) smrt</string>
+    <string name="headingReanimation3">KAKO PREPOZNATI I TRETIRATI ZASTOJ DISANJA I SRCA?</string>
+    <string name="headingReanimation4">Provjeriti stanje svijesti</string>
+    <string name="headingReanimation5">A - AIRWAY - DIŠNI PUT</string>
+    <string name="headingReanimation6">B - BREATHING - DISANJE</string>
+    <string name="headingReanimation7">C - CIRCULATION - KRVOTOK</string>
+    <string name="headingReanimation8">Masaža srca</string>
+    <string name="aboutReanimation2">Stanje neposredno nakon prestanka disanja i srčanog rada, a prije odumiranja stanica, kada je još moguće postupkom reanimacije oživjeti osobu.</string>
+    <string name="aboutReanimation3">Odumiranje moždanih stanica. Nastaje nekoliko minuta po prestanku disanja ili rada srca. Ovo je nepovratan proces.</string>
+    
+    <string name="aboutReanimation4">Oživljena osoba kod koje je već došlo do djelomičnog gubitka moždanih stanica imat će blaže ili teže znakove oštećenja mozga koji se očituju kao invalidnost ili smanjeno intelektualno funkcioniranje.
+U najtežim slučajevima "oživljena" osoba može biti u trajnoj komi, priključena na respirator, bez ikakvog izgleda da se jednog dana probudi, što nije cilj postupka oživljavanja.
+Vremenski period koji protekne od prestanka disanja i/ili srčanog rada do odumiranja moždanih stanica je varijabilan.
+Najčešće iznosi 3-5 minuta, ali može biti i dulji. Ako je klinički mrtva osoba u stanju pothlađenosti ili hipotermije (npr. utopljenik izvađen iz hladne vode), kemijske reakcije u tijelu se znatno usporavaju pa je i odumiranje stanica odgođeno. Time dobivamo više vremena za započinjanje uspješnog reanimacijskog postupka.</string>
+    
+    <string name="aboutReanimation5">Ako naiđete na osobu koja nepomično leži ili se u vašem prisustvu iznenada sruši na tlo najprije provjerite je li pri svijesti. Primite ju za ramena i lagano protresite. Uputite joj nekoliko pitanja. Ako nema odgovora, zaključujemo da je osoba bez svijesti. Svi daljnji postupci moraju se provoditi brzo i bez odlaganja. Pozovite pomoć i prijeđite na točku 2 (ABC &#8230; postupak&#8230;).</string>
+    <string name="aboutReanimation6">A-airway (dišni put) - otvaranje dišnog puta.</string>
+    <string name="aboutReanimation7">B-breathing (disanje)- provjera disanja.</string>
+    <string name="aboutReanimation8">C-circulation (krvotok)- masaža srca i umjetno disanje.</string>
+    <string name="aboutReanimation9">Okrenite onesviještenog na leđa i zabacite mu glavu podižući bradu prstima jedne ruke dok drugom rukom pritišćete čelo. Usta moraju biti otvorena. Ovim postupkom korijen jezika se odmiče od stražnje stijenke ždrijela čime se osigurava prohodnost dišnog puta. Ponekad ćete morati odstraniti iz usta zubnu protezu ili povraćeni sadržaj. To ćete najlakše učiniti prstom umotanim u maramicu ili gazu.</string>
+    
+    <string name="aboutReanimation10">    Da biste provjerili postoji li normalno disanje približite svoj obraz ustima i nosu onesviještenog držeći mu glavu u zabačenom položaju kao što je opisano.
+    Pokušajte osjetiti na svom licu strujanje zraka (dah). Istovremeno osluškujte zvukove disanja i promatrajte dišne pokrete na prsima i trbuhu onesviještenog.
+    Provjera disanja smije trajati do deset sekundi. Povremeni kratkotrajni udasi ne smatraju se normalnim disanjem i tada treba postupiti kao da disanja nema.
+    Ako onesviješteni normalno diše, okrenite ga u bočni položaj i pozovite Hitnu medicinsku pomoć. Povremeno kontrolirajte disanje.
+    Ako onesviješteni ne diše, zamolite nekog da pozove hitnu medicinsku pomoć i započnite postupak oživljavanja (točka C). Ako ste sami, pozovite hitnu medicinsku pomoć prije nego započnete oživljavanje. Ako ste sami, a unesrećena osoba je dijete, najprije započnite oživljavanje pa nakon jedne minute napravite što kraću pauzu da bi pozvali hitnu medicinsku pomoć.</string>
+    
+    <string name="aboutReanimation11">    Oživljavanje započinjemo masažom srca.
+    Bolesnik mora ležati na tvrdoj podlozi. Ako leži na krevetu spustite ga na pod. Odjeću nije potrebno skidati. Stavite korijen dlana na sredinu prsnog koša. Drugi dlan položite preko prvog. Prsti mogu biti isprepleteni ili ispruženi, ali ne smiju dodirivati stijenku prsnog koša.
+    Laktovi spasioca moraju biti ispruženi, a ramena iznad mjesta pritiska. Pritisak treba biti brz i kratkotrajan, jačine prilagođene dobi i konstituciji bolesnika.
+    Kod odrasle osobe prsna kost se mora udubiti za 5-6 cm. Slijedi popuštanje pritiska kako bi se prsni koš svojom elastičnošću vratio u prvobitni oblik. Pri tome ne smijemo odvajati dlanove od stijenke prsnog koša. Tijekom čitavog ciklusa pritiskanja i popuštanja laktovi spasioca trebaju biti ispruženi, a dlanovi u kontaktu s prsnim košem. Masaža se izvodi brzinom od oko 100-120 pritisaka u minuti (pet pritisaka u tri sekunde). Nakon trideset pritisaka prijeđite na umjetno disanje i primjenite dva upuha, svaki u trajanju od jedne sekunde.</string>
+
+</resources>

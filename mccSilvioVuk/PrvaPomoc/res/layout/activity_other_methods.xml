@@ -1,0 +1,52 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".OtherMethodsActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/imageButton_OtherMethods_signsOfDeath"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:contentDescription="about death signs"
+            android:src="@drawable/mandeath" />
+
+        <ImageButton
+            android:id="@+id/imageButton_OtherMethods_cold"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:contentDescription="hypothermia"
+            android:src="@drawable/manfrost" />
+
+        <ImageButton
+            android:id="@+id/imageButton_OtherMethods_thunderstruck"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:contentDescription="electric shock"
+            android:src="@drawable/manthunder" />
+
+        <ImageButton
+            android:id="@+id/imageButton_OtherMethods_snake"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:contentDescription="snake bite"
+            android:src="@drawable/mansnake" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/frameLayout_otherMethods_wannabeTabDisplayer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </FrameLayout>
+
+</LinearLayout>

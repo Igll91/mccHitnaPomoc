@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="firstaid_pack_array">
+        <item> 1 kom - Prvi zavoj 12cm x 5m s jednim jastučićem 12cm x 16cm</item>
+        <item> 1 kom - Prvi zavoj 8cm x 3m s jednim jastučićem 9cm x 11cm</item>
+        <item> 2 kom - Kaliko zavoj 8cm x 5m</item>
+        <item> 2 kom - Kaliko zavoj 4cm x 5m</item>
+        <item> 2 kom - Aluplast za opekline 80cm x 50cm</item>
+        <item> 2 kom - Sterilna kompresa 10cm x 20 cm, 12 slojeva</item>
+        <item> 5 kom - Flaster 10cm x 8cm</item>
+        <item> 1 kom - Samoljepljiva vrpca 2cm x 5m</item>
+        <item> 2 kom - Trokutni rubac 100cm x 100cm x 140cm</item>
+        <item> 12 kom - Igle sigurnosnice</item>
+        <item> 10 kom - Sterilna kompresa od gaze 5cm x 5cm, 16 slojeva</item>
+        <item> 1 kom - Škare sa zaobljenim vrhom</item>
+        <item> 2 para - Rukavice za jednokratnu upotrebu (PVC)</item>
+        <item> 1 kom - Polivinilski rukavac - vrećica (najm. mjera 30cm x 60cm)</item>
+        <item> 1 kom - Poliesterska folija metalna (najm. mjera 150cm x 200cm)</item>
+        <item> 2 kom - Zaštitna folija za davanje umjetnog disanja</item>
+        <item> 1 kom - Specifikacija sadržaja spremnika</item>
+        <item> 1 kom - Podsjetnik o pružanju prve pomoći</item>
+    </array>
+</resources>

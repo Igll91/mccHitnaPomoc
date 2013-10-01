@@ -1,0 +1,87 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/textView_about_appName"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/app_name" 
+            android:layout_weight="1"/>
+
+        <TextView
+            android:id="@+id/textView_about_version"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/CurrentVersion" 
+            android:layout_weight="4"/>
+
+    </LinearLayout>
+    
+    <ImageView 
+        android:layout_width="fill_parent"
+        android:layout_height="10dp"
+        android:background="@color/verylightGrey"
+        />
+    
+      <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/textView_about_authorName"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/authorName" 
+            android:layout_weight="2"/>
+
+        <TextView
+            android:id="@+id/textView_about_authorEmail"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:autoLink="email"
+            android:text="@string/authorEmail" 
+            android:layout_weight="1"/>
+
+    </LinearLayout>
+    
+         <TextView
+            android:id="@+id/textView_about_purpose"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/purpose"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp" />
+      	
+         <TextView
+            android:id="@+id/textView_about_bug"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bugReport"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"/>
+         
+         <TextView
+            android:id="@+id/textView_about_tnx"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/tnxTo:"
+            android:autoLink="web"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"/>
+         
+         <Button 
+             android:id="@+id/button_about_ok"
+             android:layout_width="wrap_content"
+             android:layout_height="fill_parent"
+             android:gravity="center"
+             android:text="@string/back"
+             android:layout_marginBottom="20dp"
+             />
+</LinearLayout>

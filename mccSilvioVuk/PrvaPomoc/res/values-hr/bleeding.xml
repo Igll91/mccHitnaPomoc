@@ -1,0 +1,63 @@
+<resources>
+    
+    <string name="innerBleeding">Unutarnje krvarenje</string>
+    <string name="outerBleeding">Vanjsko krvarenje</string>
+    
+    <!-- VANJSKO KRVARENJE -->
+    
+    <string name="aboutBleeding1">Krvarenje nastaje ozljedom krvne žile. Vanjsko krvarenje je vidljivo jer krv istječe na površini tijela. Unutarnje krvarenje se događa u unutrašnjosti tijela, skriveno od pogleda, pa dulje vrijeme može ostati neprepoznato. Jačina krvarenja ovisi o veličini ozlijeđene krvne žile. Pri ozljedi veće žile (arterije) krv će istjecati u mlazu, pa osoba može vrlo brzo iskrvariti. Zato je zaustavljanje krvarenja prioritetni postupak prve pomoći kod svake ozljede.</string>
+    <string name="headingBleeding1">Postupci za zaustavljanje vanjskog krvarenja</string>
+    
+    <string-array name="arrayBleeding1">
+        <item >pritisak na ranu</item>
+        <item >kompresivni zavoj</item>
+        <item >pritisak na veliku arteriju</item>
+        <item >podvezivanje uda</item>
+    </string-array>
+    
+    <string name="headingBleeding2">Pritisak na ranu</string>
+    <string name="aboutBleeding2">Komadom gaze ili tkanine čvrsto pritisnite mjesto krvarenja. Ako je rana na ruci ili nozi, podignite ozlijeđeni ud i zadržite ga u povišenom položaju. Ako je u ranu zabodeno strano tijelo (nož, drvo, strijela), ne smijete ga vaditi. Krvarenje ćete zaustaviti pritiskom na rubove rane oko stranog tijela.</string>
+	<string name="headingBleeding3">Kompresivni zavoj</string>
+	<string name="aboutBleeding3">Pritisak na ranu može se ostvariti i kompresivnim zavojem</string>
+	
+	<string-array name="arrayBleeding2">
+	    <item >na ranu stavite sterilnu gazu,</item>
+	    <item >na gazu stavite zamotuljak zavoja ili tkanine, točno iznad mjesta krvarenja. Može poslužiti i komadić drveta ili kamen,</item>
+	    <item >kružnim zavojem čvrsto stegnite zamotuljak. Čvor napravite iznad zamotuljka,</item>
+	    <item >Ozlijeđenu ruku ili nogu treba držati u povišenom položaju.</item>
+	</string-array>
+	
+	<string name="headingBleeding4">Podvezivanje uda</string>
+	<string name="aboutBleeding4">Ovo je radikalan zahvat koji dovodi do prekida cirkulacije ispod mjesta podvezivanja što može dovesti do odumiranja tkiva i gubitka uda. Zato se podvezivanje smije primijeniti samo  u slučajevima amputacijske ozljede (otrgnuća ili odsjecanja dijela ruke ili noge), jakog nagnječenja i drobljenja uda, a kada krvarenje nije moguće zaustaviti niti jednim drugim postupkom.Za podvezivanje se koriste namjenski proizvedene široke gumene vrpce ili platnene vrpce s kopčom (Esmarch), ali može poslužiti i trokutasta marama složena na širinu od 5 cm, kravata ili debelo uže. Ne koristite tanke materijale jer se mogu usjeći u tkivo. Podvezica se stavlja na nadlakticu ili natkoljenicu. Zateže se pomoću štapića dok krvarenje ne prestane. Zabilježite vrijeme stavljanja podvezice.</string>
+	
+	<!-- UNUTARNJE KRVARENJE -->
+	
+	<string name="aboutInnerBleeding1">Krvarenje u unutrašnjosti tijela nastaje zbog ozljede ili bolesti unutarnjih organa. Skriveno je od pogleda pa može dulje vrijeme ostati neprepoznato. Prvi simptomi se javljaju tek kada krv počne izlaziti na tjelesne otvore ili kad se pojave znakovi iskrvarenja.</string>
+	
+	<string name="bigheadingInnerBleeding1">UNUTARNJA KRVARENJA S IZLASKOM KRVI NA TJELESNE OTVORE</string>
+	<string name="headingInnerBleeding1">Krvarenje u plućima</string>
+	<string name="higlightedInnerBleeding1">Bolesnik iskašljava svjetlu, pjenušavu krv.</string>
+	<string name="headingInnerBleeding2">Krvarenje u jednjaku, želucu ili dvanaesniku</string>
+	<string name="higlightedInnerBleeding2">Bolesnik povraća tamno crvenu ili crnu krv koja sliči na talog od kave. Stolica je crna.</string>
+	<string name="headingInnerBleeding3">Krvarenje u crijevima</string>
+	<string name="higlightedInnerBleeding3">Crna stolica.</string>
+	<string name="headingInnerBleeding4">Krvarenje u završnim dijelovima crijeva</string>
+	<string name="higlightedInnerBleeding4">Crvena, krvava stolica.</string>
+	<string name="headingInnerBleeding5">Krvarenje u bubregu ili mokraćnom mjehuru</string>
+	<string name="higlightedInnerBleeding5">Crvena mokraća.</string>
+	
+	<string name="bigheadingInnerBleeding2">UNUTARNJA KRVARENJA BEZ IZLASKA KRVI NA TJELESNE OTVORE</string>
+	<string name="headingInnerBleeding6">Krvarenje u trbušnu/prsnu šupljinu</string>
+	<string name="higlightedInnerBleeding6">Popraćeno je otežanim disanjem.</string>
+	<string name="headingInnerBleeding7">Krvarenje u mišićje</string>
+	<string name="higlightedInnerBleeding7">
+    Pri prijelomu velikih kostiju, osobito natkoljenične ili nadlaktične kosti, koštani ulomci mogu ozlijediti krvnu žilu i izazvati obilno unutarnje krvarenje. Ozljeda žile može nastati u trenutku prijeloma, ali i naknadno, nepravilnom manipulacijom i izostavljanjem imobilizacije ozlijeđenog uda. Osobito je opasan prijelom bedrene kosti pri kojem ozlijeđenik može izgubiti i do 1,5 litara krvi ako se ozlijedi bedrena arterija.
+	Pri svakom jačem udarcu u trup (npr. u prometnoj nezgodi) moramo posumnjati na mogućnost unutarnjih ozljeda s krvarenjem u trbušnu ili prsnu šupljinu, čak i kada se ozlijeđenik osjeća relativno dobro i nema vidljivih ozljeda. Unutarnje krvarenje može biti vrlo polagano, s prvim znakovima tek nakon više sati.
+	</string>
+	<string name="headingInnerBleeding8">ZNAKOVI ISKRVARENJA</string>
+	<string name="higlightedInnerBleeding8">Gubitak veće količine krvi dovodi do opće slabosti, vrtoglavice, šuma u ušima i iskrenja pred očima. U težim slučajevima razvijaju se svi znakovi šoka. Osobu treba staviti u ležeći položaj, po mogućnosti s uzdignutim nogama i rukama (položaj autotransfuzije) i pokriti.</string>
+	<string name="headingInnerBleeding9">POSTUPAK</string>
+	<string name="higlightedInnerBleeding9">
+    Unutarnje krvarenje ne može se zaustaviti mjerama prve pomoći. Zato je nužan hitan prijevoz u bolnicu. Koštane prijelome imobilizirajte prije transporta. Osoba ne smije jesti niti piti. Samo u slučaju produljenog transporta i ako nema ozljede trbuha niti krvarenja iz probavnog sustava, možete joj povremeno davati manje količine vode ili čaja.
+	    </string>
+</resources>

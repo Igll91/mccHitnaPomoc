@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="textSize_firstAidKit">16sp</dimen>
+    <dimen name="headingSize_otherMethods">15sp</dimen>
+    <dimen name="marginSize_otherMethods_textBlock">10dp</dimen>
+    <dimen name="maginSize_otherMethods_heading">5dp</dimen>
+</resources>

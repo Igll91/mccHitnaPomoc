@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="aboutSnake">U našim krajevima žive dvije vrste otrovnica - riđovka i poskok. Manje su otrovne od npr. afričkih ili azijskih zmija pa im je ugriz rijetko kada smrtonosan. Poskok je nešto otrovniji od riđovke.</string>
+    <string name="headingSnakeBiteSigns">Znakovi ugriza zmije</string>
+    <string name="textSnakeBiteSigns">Na mjestu ugriza vide se dvije ranice od zmijskih zuba. Ponekad postoji samo jedna ranica. Sam ugriz ne znači da je zmija i ubrizgala otrov.
+Čak u 22% dokazanih ugriza nema znakova otrovanja.</string>
+    <string name="headingSnakeBiteEffects">Znakovi otrovanja (ne moraju svi biti izraženi)</string>
+
+    <string-array name="arraySnakeBiteEffects">
+        <item>Vrtoglavica</item>
+        <item>Mučnina i povraćanje</item>
+        <item>Bol i oteklina na mjestu ugriza</item>
+        <item>Otok limfnih čvorova u preponi kod ugriza u nogu ili u pazuhu kod ugriza u ruku.</item>
+        <item>Šok je najopasnija posljedica ugriza.</item>
+    </string-array>
+
+    <string name="headingSnakeBiteTreatment">Postupak</string>
+
+    <string-array name="arraySnakeBiteTreatment">
+        <item>Ugrižena osoba treba mirovati.</item>
+        <item>Imobilizirajte nogu ili ruku na kojoj je ugrizna ranica. Time se usporava širenje otrova u organizmu.</item>
+        <item>Potreban je brz prijevoz do bolnice.</item>
+        <item>NE podvezujte ugriženi ud.</item>
+        <item>NE zarezujte ranu.</item>
+        <item>NE isisavajte otrov.</item>
+        <item>NE stavljajte led na mjesto ugriza.</item>
+    </string-array>
+
+</resources>

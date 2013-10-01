@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PrvaPomoc</string>
+    <string name="hello_world">Pozdrav svijete!</string>
+    <string name="menu_settings">Postavke</string>
+    
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="dummy_button">Dummy Button</string>
+    
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="emergency_call_text">Zovi Hitnu !</string>
+    <string name="homeScreen_image_content_description">Slika određene opcije</string>
+    
+	<string name="backButton">Da li želite prekinuti aplikaciju ?</string>
+	<string name="ok">Da</string>
+	<string name="no">Ne</string>
+	
+	<string name="settings_splash_title">Početni zaslon</string>
+	<string name="settings_splash_details_on">Isključite ulazni zaslon sa savjetima</string>
+	<string name="settings_splash_details_off">Uključite ulazni zaslon sa savjetima</string>
+	
+	<string name="settings_telNum_text">Promjenite pozivni broj aplikacije</string>
+	<string name="settings_telNum_buttonText">Promjeni</string>
+	
+	<string name="settings_telNum_saved_message">Uspješno je promjenjem broj</string>
+	<string name="settings_telNum_tooShort_message">Premalo znamenaka !</string>
+	<string name="settings_telNum_reset">Resetiraj broj na početnu vrijednost</string>
+	<string name="settings_telNum_reset_text">Resetiraj</string>
+	
+	<string name="confirmQuestion">Jeste li sigurni ?</string>
+	<string name="settings_telNum_reset_message">Uspješno je resetiran broj</string>
+</resources>

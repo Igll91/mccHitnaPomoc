@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context=".MainScreen" 
+    android:background="#10000000"
+   	>
+
+    <ImageView
+        android:id="@+id/imageViewHomeScreenElement"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_weight="6"
+        android:contentDescription="@string/homeScreen_image_content_description"
+        android:src="@android:drawable/btn_star" 
+        android:paddingTop="2dp"
+        android:paddingBottom="2dp"
+       	/>
+
+    <TextView
+        android:id="@+id/textViewHomeScreenElement"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="4"
+        android:text=""
+        android:gravity="center_vertical"
+        android:textAlignment="textStart"
+        android:textColor="@android:color/black" />
+
+</LinearLayout>

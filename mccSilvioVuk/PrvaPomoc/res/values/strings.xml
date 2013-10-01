@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_activity_main_screen">MainScreen</string>
+    <string name="menu_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_first_aid_kit_content">FirstAidKitContentActivity</string>
+    <string name="title_activity_all_tips">AllTipsActivity</string>
+    <string name="title_activity_other_methods">OtherMethodsActivity</string>
+    <string name="CurrentVersion">ver 1.0</string>
+    <string name="authorName">Silvio Vuk</string>
+    <string name="authorEmail">bfsilviovuk@gmail.com</string>
+    <string name="title_activity_emergency_screen">EmergencyScreen</string>
+    <string name="title_activity_emergency_bleeding_screen">EmergencyBleedingScreen</string>
+    <string name="title_activity_emergency_choking_screen">EmergencyChokingScreen</string>
+    <string name="title_activity_emergency_reanimation">EmergencyReanimation</string>
+
+</resources>
